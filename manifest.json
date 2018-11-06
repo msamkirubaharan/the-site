@@ -1,0 +1,7 @@
+{
+  "name": "the-site",
+  "short_name": "the-site",
+  "description": "the-site for everyone to read.",
+  "start_url": "/",
+  "display": "standalone"
+}
